@@ -1,6 +1,6 @@
 priceIsRight = 15
 
-if priceIsRight <= 5:
+if priceIsRight <= 10:
     print 'Price is too low!'
 elif priceIsRight >= 5 and priceIsRight <= 9:
     print 'Price is almost there!'

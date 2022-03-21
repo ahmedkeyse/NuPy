@@ -9,4 +9,4 @@ wizard_damage = 150
 elf_damage = 100
 human_damage = 20
 dragon_hp = 300
-damage_hp = 50
+damage_hp = 51

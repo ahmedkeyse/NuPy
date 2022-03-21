@@ -1,4 +1,4 @@
-print("Welcome to PSB Battle Game! \n(N)ew game\n(S)ave game\n(Q)uit")
+print("Welcome to PSB Battle Game! \n(N)ew game\n(S)ave game\n(Q)uit!")
 
 
 def main():

@@ -8,7 +8,7 @@ Students  |  Grades  |  Letters
   Stanley   |  99      |  A
   Annie     |  100     |  A+
 """
-gradeToTest = 0
+gradeToTest = 90
 if gradeToTest == 100:
     print("A+")
 elif gradeToTest >= 90:

@@ -5,7 +5,7 @@ cities = "Seattle", "Tacoma", "Bellevue"
 a = 1
 print(type(a))
 
-b = 21.50
+b = 41.50
 print(type(b))
 
 c = "Minneapolis"

@@ -1,7 +1,7 @@
 wizard = "Wizard"
 elf = "Elf"
 human = "Human"
-wizard_hp = 70
+wizard_hp = 700
 elf_hp = 100
 human_hp = 150
 wizard_damage = 150
