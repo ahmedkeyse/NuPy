@@ -13,7 +13,7 @@ if gradeToTest == 100:
     print("A+")
 elif gradeToTest >= 90:
     print("A")
-elif gradeToTest >= 8   0      
+elif gradeToTest >= 8:
     print("B")
 elif gradeToTest >= 70:
     print("C")
@@ -21,4 +21,3 @@ elif gradeToTest >= 50:
     print("D")
 else:
     print("F")
-
